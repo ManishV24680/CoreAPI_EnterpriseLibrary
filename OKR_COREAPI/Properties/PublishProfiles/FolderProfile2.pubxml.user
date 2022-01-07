@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Deployment\coreokr</_PublishTargetUrl>
+    <History>True|2022-01-07T06:43:05.7013335Z;False|2022-01-07T12:12:42.9566886+05:30;False|2022-01-07T12:12:16.4307587+05:30;True|2022-01-07T01:18:01.1195736+05:30;False|2022-01-07T01:17:15.0283103+05:30;</History>
+  </PropertyGroup>
+</Project>
